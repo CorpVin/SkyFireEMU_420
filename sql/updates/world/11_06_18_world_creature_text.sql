@@ -75,7 +75,7 @@ INSERT INTO `creature_text` (`entry`, `groupid`, `id`, `text`, `type`, `language
 VALUES 
 ('39378', '0', '0', 'Defilers! Wretches! Fiends! Begone from here!', '1', '0', '0', '0', '0', '18911', 'VO_HO_Rajh_Engage'), 
 ('39378', '1', '0', 'Can you feel it? The blessed warmth of the sun?', '1', '0', '0', '0', '0', '18912', 'VO_HO_Rajh_Event01'),
-('39378', '2', '0', 'I send you to your deity.', '1', '0', '0', '0', '0', '18913', 'VO_HO_Rajh_Slay01'),
+('39378', '2', '0', 'I send you to your deity!', '1', '0', '0', '0', '0', '18913', 'VO_HO_Rajh_Slay01'),
 ('39378', '2', '1', 'I will take this life as an offering!', '1', '0', '0', '0', '0', '18914', 'VO_HO_Rajh_Slay01'),
 ('39378', '3', '0', 'Blazing rays of light, take me!', '1', '0', '0', '0', '0', '18910', 'VO_HO_Rajh_Death');
 
